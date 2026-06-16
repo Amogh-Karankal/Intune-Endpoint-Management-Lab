@@ -97,4 +97,4 @@ Intune-Endpoint-Management-Lab/
 
 ---
 
-*Part of a hands-on IT & cybersecurity portfolio. See also: [Windows Server Active Directory Lab](https://github.com/Amogh-Karankal/Windows-AD-Lab) and [Secure Azure AI Chatbot](https://github.com/Amogh-Karankal).*
+*Part of a hands-on IT & cybersecurity portfolio. See also: [Windows Server Active Directory Lab](https://github.com/Amogh-Karankal/Windows-AD-Lab) and [Secure Azure AI Chatbot](https://github.com/Amogh-Karankal/azure-secure-ai-chatbot).*
